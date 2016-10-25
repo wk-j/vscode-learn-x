@@ -18,4 +18,4 @@ Render [Learn X in Y minutes](https://learnxinyminutes.com/) inside Visual Studi
 ## Todo
 
 - [ ] Select language.
-- [ ] Select transtation.
+- [ ] Select translation.

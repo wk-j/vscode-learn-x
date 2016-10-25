@@ -2,7 +2,7 @@
     "name": "learn-x",
     "displayName": "Learn X in Y minutes",
     "description": "Render learn X in Y minutes inside Visual Studio Code",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "wk-j",
     "engines": {
         "vscode": "^1.5.0"
