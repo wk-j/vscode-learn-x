@@ -8,11 +8,13 @@ Task("Publish").Does(() => {
 
 Task("Icon").Does(() =>{
     CreateLogo("Learn-X", "images/icon.png", new LogoSettings {
-        //FontFamily = "Futura",
+        //FontFamily = "Krungthep",
         //FontFamily = "Herculanum",
+        FontFamily = "Phosphate",
         Background = "RoyalBlue",
         Foreground = "White",
-        Padding = 30
+        //FontSize = 50,
+        Padding = 50
     });
 });
 
