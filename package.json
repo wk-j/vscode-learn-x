@@ -1,8 +1,8 @@
 {
     "name": "learn-x",
     "displayName": "Learn X in Y minutes",
-    "description": "Render learn X in Y minites inside Visual Studio Code",
-    "version": "0.0.1",
+    "description": "Render learn X in Y minutes inside Visual Studio Code",
+    "version": "0.0.2",
     "publisher": "wk-j",
     "engines": {
         "vscode": "^1.5.0"
